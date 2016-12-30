@@ -1,0 +1,14 @@
+2016/12/29 15:45:27 [I] [main.go:23] server start
+
+2016/12/29 15:45:30 [I] [GoCallBack.go:34] OnConnect: 192.168.2.171:55993
+
+2016/12/29 15:45:30 [I] [GoCallBack.go:52] OnClose: &{0 192.168.2.171:55993 {{0 0} 0 0 0 0}}
+
+2016/12/29 15:46:02 [I] [GoCallBack.go:34] OnConnect: 192.168.2.132:11658
+
+2016/12/29 15:46:07 [E] [GoProtocol.go:25] io.ReadFull  EOF
+
+2016/12/29 15:46:07 [I] [GoCallBack.go:52] OnClose: &{0 192.168.2.132:11658 {{0 0} 0 0 0 0}}
+
+2016/12/29 15:46:15 [I] [GoCallBack.go:34] OnConnect: 192.168.2.132:18758
+

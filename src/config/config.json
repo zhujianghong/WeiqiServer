@@ -1,0 +1,9 @@
+{
+	"Addr":"192.168.2.171:8000",
+	"PacketSendChanLimit":20,
+	"PacketReceiveChanLimit":20,
+	"AcceptTimeout":5,
+	"RedisAddr":"14.17.110.26:4000",
+	"RedisPasswd":"",
+	"MysqlName":"yunqu:123456@tcp(192.168.2.171:3306)/yfgo"
+}

@@ -1,0 +1,8 @@
+2016/12/29 18:22:41 [I] [main.go:23] server start
+
+2016/12/29 18:23:02 [I] [GoCallBack.go:34] OnConnect: 192.168.2.132:10318
+
+2016/12/29 18:24:02 [E] [GoProtocol.go:25] io.ReadFull  read tcp 192.168.2.171:8000->192.168.2.132:10318: use of closed network connection
+
+2016/12/29 18:24:02 [I] [GoCallBack.go:52] OnClose: &{0 192.168.2.132:10318 {{0 0} 0 0 0 0}}
+
